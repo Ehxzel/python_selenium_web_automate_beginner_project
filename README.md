@@ -1,0 +1,2 @@
+# python_selenium_web_automate_beginner_project
+Login automation for facebook.com
